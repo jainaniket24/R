@@ -1,5 +1,3 @@
-setwd("D:/MSBA/3. Spring Quarter/Operations Analytics/Homeworks/Homework 3")
-rm(list = ls())
 
 # loading packages:
 library(caret)
